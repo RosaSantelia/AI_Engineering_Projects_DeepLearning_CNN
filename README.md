@@ -2,6 +2,7 @@
 VisionTech Solutions
 
 🧠 Descrizione del Progetto
+
 VisionTech Solutions intende sviluppare un sistema di riconoscimento automatico delle immagini per distinguere veicoli e animali, migliorando la sicurezza stradale urbana e proteggendo sia gli animali che i mezzi di trasporto.
 
 Attraverso una collaborazione con le amministrazioni comunali, il progetto prevede l’installazione di telecamere stradali e l’implementazione di un sistema basato su rete neurale convoluzionale (CNN), capace di analizzare le immagini in tempo reale per generare avvisi dinamici ai guidatori.
